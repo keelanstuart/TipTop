@@ -1,4 +1,4 @@
-![image](https://github.com/keelanstuart/TipTop/blob/master/TipTop.png)
+![image](https://github.com/keelanstuart/TipTop/blob/main/TipTop.png)
 # TipTop
 
 TipTop is a minimal web browser that sits on top of all your other
