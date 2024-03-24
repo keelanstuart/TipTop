@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipTop", "TipTop.csproj", "{C5D0401F-FD6C-4655-AE9E-43F76B959A00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5D0401F-FD6C-4655-AE9E-43F76B959A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D0401F-FD6C-4655-AE9E-43F76B959A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D0401F-FD6C-4655-AE9E-43F76B959A00}.Debug|x64.ActiveCfg = Debug|x64
+		{C5D0401F-FD6C-4655-AE9E-43F76B959A00}.Debug|x64.Build.0 = Debug|x64
+		{C5D0401F-FD6C-4655-AE9E-43F76B959A00}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5D0401F-FD6C-4655-AE9E-43F76B959A00}.Debug|x86.Build.0 = Debug|Win32
+		{C5D0401F-FD6C-4655-AE9E-43F76B959A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D0401F-FD6C-4655-AE9E-43F76B959A00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5D0401F-FD6C-4655-AE9E-43F76B959A00}.Release|x64.ActiveCfg = Release|x64
+		{C5D0401F-FD6C-4655-AE9E-43F76B959A00}.Release|x64.Build.0 = Release|x64
+		{C5D0401F-FD6C-4655-AE9E-43F76B959A00}.Release|x86.ActiveCfg = Release|Win32
+		{C5D0401F-FD6C-4655-AE9E-43F76B959A00}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {290C0359-A9FC-4251-90E5-44FB7A4C7142}
+	EndGlobalSection
+EndGlobal

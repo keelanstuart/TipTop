@@ -1,0 +1,133 @@
+<sfxpackager>
+
+<settings2>
+
+<powerprops:property_set>
+<powerprops:property id="ADCH" type="BOOLEAN">yes</powerprops:property>
+<powerprops:property id="ADMN" type="BOOLEAN">no</powerprops:property>
+<powerprops:property id="BOOT" type="BOOLEAN">no</powerprops:property>
+<powerprops:property id="CBSZ" type="ENUM">Default,Smallest,Smaller,Small,Normal,Large,Larger,Largest:0</powerprops:property>
+<powerprops:property id="CPTN" type="STRING">TipTop Setup</powerprops:property>
+<powerprops:property id="DDST" type="STRING">%USERPROFILE%\AppData\Local\TipTop</powerprops:property>
+<powerprops:property id="ENEX" type="BOOLEAN">yes</powerprops:property>
+<powerprops:property id="ICON" type="STRING">..\TipTop.ico</powerprops:property>
+<powerprops:property id="IMAG" type="STRING">TipTop.bmp</powerprops:property>
+<powerprops:property id="LICM" type="STRING">LICENSE.html</powerprops:property>
+<powerprops:property id="LNCH" type="STRING">TipTop.exe</powerprops:property>
+<powerprops:property id="MXSZ" type="INT">-1</powerprops:property>
+<powerprops:property id="OFSF" type="ENUM">None,Build Date,Version:1</powerprops:property>
+<powerprops:property id="OPMD" type="ENUM">Self-Extracting Executable,Executable With External Data:0</powerprops:property>
+<powerprops:property id="OUTP" type="STRING">TipTopSetup.exe</powerprops:property>
+<powerprops:property id="VCPY" type="STRING">Copyright (c) 2024, Keelan Stuart</powerprops:property>
+<powerprops:property id="VDSC" type="STRING"></powerprops:property>
+<powerprops:property id="VERS" type="STRING"></powerprops:property>
+<powerprops:property id="VPRD" type="STRING">TipTop Browser</powerprops:property>
+<powerprops:property id="WLCM" type="STRING">TipTopSetupWelcome.html</powerprops:property>
+</powerprops:property_set>
+
+</settings2>
+
+<files2>
+
+<file2>
+
+<powerprops:property_set>
+<powerprops:property id="DSTP" type="STRING">\</powerprops:property>
+<powerprops:property id="EXCL" type="STRING"></powerprops:property>
+<powerprops:property id="NAME" type="STRING">LICENSE</powerprops:property>
+<powerprops:property id="PRES" type="STRING"></powerprops:property>
+<powerprops:property id="SNPT" type="STRING"></powerprops:property>
+<powerprops:property id="SRCP" type="STRING">..\LICENSE</powerprops:property>
+</powerprops:property_set>
+
+</file2>
+
+<file2>
+
+<powerprops:property_set>
+<powerprops:property id="DSTP" type="STRING">\</powerprops:property>
+<powerprops:property id="EXCL" type="STRING"></powerprops:property>
+<powerprops:property id="NAME" type="STRING">WebView2Loader.dll</powerprops:property>
+<powerprops:property id="PRES" type="STRING"></powerprops:property>
+<powerprops:property id="SNPT" type="STRING"></powerprops:property>
+<powerprops:property id="SRCP" type="STRING">..\bin\x64\Release\WebView2Loader.dll</powerprops:property>
+</powerprops:property_set>
+
+</file2>
+
+<file2>
+
+<powerprops:property_set>
+<powerprops:property id="DSTP" type="STRING">\</powerprops:property>
+<powerprops:property id="EXCL" type="STRING"></powerprops:property>
+<powerprops:property id="NAME" type="STRING">Microsoft.Web.WebView2.Core.dll</powerprops:property>
+<powerprops:property id="PRES" type="STRING"></powerprops:property>
+<powerprops:property id="SNPT" type="STRING"></powerprops:property>
+<powerprops:property id="SRCP" type="STRING">..\bin\x64\Release\Microsoft.Web.WebView2.Core.dll</powerprops:property>
+</powerprops:property_set>
+
+</file2>
+
+<file2>
+
+<powerprops:property_set>
+<powerprops:property id="DSTP" type="STRING">\</powerprops:property>
+<powerprops:property id="EXCL" type="STRING"></powerprops:property>
+<powerprops:property id="NAME" type="STRING">Microsoft.Web.WebView2.WinForms.dll</powerprops:property>
+<powerprops:property id="PRES" type="STRING"></powerprops:property>
+<powerprops:property id="SNPT" type="STRING"></powerprops:property>
+<powerprops:property id="SRCP" type="STRING">..\bin\x64\Release\Microsoft.Web.WebView2.WinForms.dll</powerprops:property>
+</powerprops:property_set>
+
+</file2>
+
+<file2>
+
+<powerprops:property_set>
+<powerprops:property id="DSTP" type="STRING">\</powerprops:property>
+<powerprops:property id="EXCL" type="STRING"></powerprops:property>
+<powerprops:property id="NAME" type="STRING">Microsoft.Web.WebView2.Wpf.dll</powerprops:property>
+<powerprops:property id="PRES" type="STRING"></powerprops:property>
+<powerprops:property id="SNPT" type="STRING"></powerprops:property>
+<powerprops:property id="SRCP" type="STRING">..\bin\x64\Release\Microsoft.Web.WebView2.Wpf.dll</powerprops:property>
+</powerprops:property_set>
+
+</file2>
+
+<file2>
+
+<powerprops:property_set>
+<powerprops:property id="DSTP" type="STRING">\</powerprops:property>
+<powerprops:property id="EXCL" type="STRING"></powerprops:property>
+<powerprops:property id="NAME" type="STRING">TipTop.exe</powerprops:property>
+<powerprops:property id="PRES" type="STRING"></powerprops:property>
+<powerprops:property id="SNPT" type="STRING">CreateStartMenuEntry();</powerprops:property>
+<powerprops:property id="SRCP" type="STRING">..\bin\x64\Release\TipTop.exe</powerprops:property>
+</powerprops:property_set>
+
+</file2>
+
+<file2>
+
+<powerprops:property_set>
+<powerprops:property id="DSTP" type="STRING">\</powerprops:property>
+<powerprops:property id="EXCL" type="STRING"></powerprops:property>
+<powerprops:property id="NAME" type="STRING">TipTop.exe.config</powerprops:property>
+<powerprops:property id="PRES" type="STRING"></powerprops:property>
+<powerprops:property id="SNPT" type="STRING"></powerprops:property>
+<powerprops:property id="SRCP" type="STRING">..\bin\x64\Release\TipTop.exe.config</powerprops:property>
+</powerprops:property_set>
+
+</file2>
+
+</files2>
+
+<scripts>
+
+<script type="preinstall">ShowLicenseAcceptanceDlg();CreateDirectoryTree(&quot;%APPDATA%/Microsoft/Windows/Start Menu/Programs/TipTop&quot;);Echo(&quot;Created Start Menu folder...\n&quot;);</script>
+
+<script type="postfile">function CreateStartMenuEntry(){	CreateShortcut(&quot;%APPDATA%/Microsoft/Windows/Start Menu/Programs/TipTop/TipTop.lnk&quot;, FILEPATH, &quot;&quot;, BASEPATH, &quot;TipTop - minmalist browser that stays on top of other windows&quot;, 1, FILEPATH, 0);	Echo(&quot;Created Start Menu shortcut...\n&quot;);}</script>
+
+</scripts>
+
+</sfxpackager>
